@@ -52,13 +52,9 @@ Python and SQL to transform raw data into clear, actionable insights</p>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" />
 </p>
 
----
 
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Alucardz18&icon=10&color=2" alt="Profile Visit Counter"/>
-  </a>
-</p>
+
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
