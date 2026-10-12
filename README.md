@@ -1,9 +1,10 @@
 <!-- ========================= BANNER ========================= -->
+<!-- Banner images live in the art/ folder of this repo, so they always load -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1C2533,100:334155&height=220&section=header&text=Nii-Oye%20Kpakpo&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:334155,100:4A6FA5&height=220&section=header&text=Nii-Oye%20Kpakpo&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
-    <img alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:1C2533,100:334155&height=220&section=header&text=Nii-Oye%20Kpakpo&fontSize=48&fontColor=ffffff" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="art/banner-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="art/banner-light.svg" />
+    <img alt="Nii-Oye Kpakpo" src="art/banner-dark.svg" width="100%" />
   </picture>
 </p>
 
@@ -103,5 +104,5 @@
 
 <!-- ========================= FOOTER ========================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:334155,100:1C2533&height=140&section=footer" alt="Footer" width="100%" />
+  <img src="art/footer.svg" alt="Footer" width="100%" />
 </p>
