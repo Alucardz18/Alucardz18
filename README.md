@@ -21,10 +21,6 @@
 <!-- ========================= ABOUT ME ========================= -->
 <h2 align="center">👨‍💻 About Me</h2>
 
-<table align="center">
-  <tr>
-    <td width="100%" valign="top">
-
 - 🎓 Computer Science student, graduating **December 2026**
 - 🎖️ **U.S. Marine Corps veteran** who kept audit-ready records for $1M+ in assets
 - 📊 Building data projects with **SQL, Python, Excel and Power BI**
@@ -33,15 +29,6 @@
 - 🏆 3rd place at **HackNCAT 8.0**
 - 💼 Open to **Junior Data Analyst** roles
 - 📍 Based in **Greensboro, NC**
-
-    </td>
-    <!-- About Me image (turned off). To use it, set the cell above to width="65%" and uncomment:
-    <td width="35%" align="center" valign="middle">
-      <img src="[YOUR_IMAGE_OR_GIF_URL]" alt="About me" width="100%" />
-    </td>
-    -->
-  </tr>
-</table>
 
 <br />
 
@@ -100,9 +87,9 @@
 <h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/[https://www.linkedin.com/in/nii-oye-kpakpo-5b9997248/"><img src="https://img.shields.io/badge/LinkedIn-334155?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/nii-oye-kpakpo-5b9997248/"><img src="https://img.shields.io/badge/LinkedIn-334155?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/Alucardz18"><img src="https://img.shields.io/badge/GitHub-4A6FA5?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:[nhyirakpakpo@gmail.com]"><img src="https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:nhyirakpakpo@gmail.com"><img src="https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
  <a href="https://app.joinhandshake.com/profiles/hbtfa3"><img src="https://img.shields.io/badge/Handshake-334155?style=for-the-badge&logoColor=white" alt="Handshake" /></a>
   <!-- Add any of these if you want them on your profile:
   <a href="https://x.com/[YOUR_X_HANDLE]"><img src="https://img.shields.io/badge/X-4A6FA5?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
