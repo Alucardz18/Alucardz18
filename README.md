@@ -57,20 +57,23 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Alucardz18&background=00000000&border=4A6FA5&ring=334155&fire=334155&currStreakLabel=4A6FA5&sideNums=4A6FA5&currStreakNum=334155&sideLabels=4A6FA5&dates=A9B8CC&stroke=A9B8CC&border_radius=12" alt="GitHub Streak" width="80%" />
 </p>
-
+<!--
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Alucardz18&bg_color=00000000&color=4A6FA5&line=334155&point=A9B8CC&area=true&area_color=A9B8CC&title_color=334155&hide_border=true&radius=12" alt="Activity Graph" width="100%" />
 </p>
 
-<br />
 
+<br />
+-->
+<!--
 ### 📈 Contribution Graph
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph-gold-gamma.vercel.app/graph?username=Alucardz18&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
 </p>
 
-<!-- ========================= CONTRIBUTION SNAKE ========================= 
+
+ ========================= CONTRIBUTION SNAKE ========================= -->
  <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
