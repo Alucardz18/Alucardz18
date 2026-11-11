@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="284" viewBox="0 0 1000 284" role="img" aria-label="Supply Chain Automation Pipeline">
+<style>
+.bar{transform-box:fill-box;animation:grow 1.1s cubic-bezier(.2,.8,.2,1) both}
+.hb{transform-origin:left center;animation-name:growx}
+.vb{transform-origin:center bottom;animation-name:growy}
+.lbl{opacity:0;animation:fade .5s ease forwards}
+@keyframes growx{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+@keyframes growy{from{transform:scaleY(0)}to{transform:scaleY(1)}}
+@keyframes fade{to{opacity:1}}
+</style>
+<rect width="1000" height="284" rx="16" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="36" y="44" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="2" fill="#d4580a">ANALYST MODE · PROJECT 01</text>
+<text x="36" y="78" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="24" font-weight="800" fill="#1f2328">Supply Chain Automation Pipeline</text>
+<text x="36" y="112" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#59636e">Why do most orders arrive late, and which</text><text x="36" y="133" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#59636e">shipping promise is breaking?</text>
+<text x="36" y="190" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="44" font-weight="800" fill="#d4580a">54.8%</text>
+<text x="36" y="208" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" fill="#1f2328">of 65,752 orders arrived late</text>
+<text x="36" y="258" font-family="Consolas, 'SF Mono', Menlo, 'Courier New', monospace" font-size="13" fill="#59636e">Python · pandas · SQLite · SQL · Power BI</text>
+<line x1="540" y1="32" x2="540" y2="252" stroke="#d0d7de"/>
+<text x="580" y="62" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#59636e">LATE DELIVERY RATE BY SHIPPING MODE</text><text x="690" y="105" text-anchor="end" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#1f2328">First Class</text><rect class="bar hb" style="animation-delay:0.00s" x="700" y="92" width="209.7" height="18" rx="4" fill="#d4580a"/><text class="lbl" style="animation-delay:0.90s" x="917.7" y="106" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#1f2328">95.3%</text><text x="690" y="147" text-anchor="end" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#1f2328">All orders</text><rect class="bar hb" style="animation-delay:0.15s" x="700" y="134" width="120.6" height="18" rx="4" fill="#0969da"/><text class="lbl" style="animation-delay:1.05s" x="828.6" y="148" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#1f2328">54.8%</text><text x="690" y="189" text-anchor="end" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#1f2328">Standard Class</text><rect class="bar hb" style="animation-delay:0.30s" x="700" y="176" width="83.8" height="18" rx="4" fill="#0969da"/><text class="lbl" style="animation-delay:1.20s" x="791.8" y="190" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#1f2328">38.1%</text><text class="lbl" style="animation-delay:1.6s" x="580" y="236" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="13" fill="#59636e">The premium 1-day tier is late 95% of the time.</text>
+</svg>

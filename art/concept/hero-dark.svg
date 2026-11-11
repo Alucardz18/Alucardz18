@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="320" viewBox="0 0 1000 320" role="img" aria-label="Nii-Oye Kpakpo, data analyst">
+<style>
+.ln{opacity:0;animation:fade .45s ease forwards}
+.up{opacity:0;animation:rise .7s ease forwards}
+.cur{animation:blink 1s steps(1) infinite}
+@keyframes fade{to{opacity:1}}
+@keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:translateY(0)}}
+@keyframes blink{50%{opacity:0}}
+</style>
+<rect width="1000" height="320" rx="18" fill="#161b22" stroke="#30363d"/>
+<g class="up">
+<text x="40" y="70" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" letter-spacing="3" fill="#ff8a3d">NII-OYE KPAKPO</text>
+<text x="40" y="122" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="40" font-weight="800" fill="#e6edf3">I turn messy data</text>
+<text x="40" y="170" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="40" font-weight="800" fill="#e6edf3">into clear <tspan fill="#ff8a3d">decisions.</tspan></text>
+<text x="40" y="208" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#8b949e">Data analyst · CS at North Carolina A&amp;T, Dec 2026</text>
+<text x="40" y="231" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#8b949e">U.S. Marine Corps Reserve · game developer on the side</text>
+<rect x="40" y="250" width="44" height="30" rx="15" fill="#1f2a37"/><text x="62" y="270" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e6edf3">SQL</text><rect x="93.8" y="250" width="70" height="30" rx="15" fill="#1f2a37"/><text x="129" y="270" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e6edf3">Python</text><rect x="173.39999999999998" y="250" width="87" height="30" rx="15" fill="#1f2a37"/><text x="217" y="270" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e6edf3">Power BI</text><rect x="270.2" y="250" width="61" height="30" rx="15" fill="#1f2a37"/><text x="301" y="270" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e6edf3">Excel</text><rect x="341.2" y="250" width="61" height="30" rx="15" fill="#1f2a37"/><text x="372" y="270" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#e6edf3">Godot</text>
+</g>
+<rect x="560" y="40" width="404" height="240" rx="12" fill="#0b0f14"/>
+<circle cx="582" cy="60" r="5.5" fill="#ff5f57"/><circle cx="600" cy="60" r="5.5" fill="#febc2e"/><circle cx="618" cy="60" r="5.5" fill="#28c840"/>
+<text x="762" y="64" text-anchor="middle" font-family="Consolas, 'SF Mono', Menlo, 'Courier New', monospace" font-size="12" fill="#8b949e">portfolio.sql</text>
+<text xml:space="preserve" class="ln" style="animation-delay:0.40s" x="584" y="104" fill="#8b949e" font-family="Consolas, 'SF Mono', Menlo, 'Courier New', monospace" font-size="14">$ psql -d portfolio</text><text xml:space="preserve" class="ln" style="animation-delay:0.75s" x="584" y="127" fill="#ff8a3d" font-family="Consolas, 'SF Mono', Menlo, 'Courier New', monospace" font-size="14">=&gt; SELECT role, focus FROM nii_oye;</text><text xml:space="preserve" class="ln" style="animation-delay:1.10s" x="584" y="156" fill="#8b949e" font-family="Consolas, 'SF Mono', Menlo, 'Courier New', monospace" font-size="14"> role      | focus</text><text xml:space="preserve" class="ln" style="animation-delay:1.45s" x="584" y="179" fill="#8b949e" font-family="Consolas, 'SF Mono', Menlo, 'Courier New', monospace" font-size="14">-----------+---------------------------</text><text xml:space="preserve" class="ln" style="animation-delay:1.80s" x="584" y="202" fill="#e6edf3" font-family="Consolas, 'SF Mono', Menlo, 'Courier New', monospace" font-size="14"> analyst   | SQL, Python, Power BI</text><text xml:space="preserve" class="ln" style="animation-delay:2.15s" x="584" y="225" fill="#e6edf3" font-family="Consolas, 'SF Mono', Menlo, 'Courier New', monospace" font-size="14"> reservist | $17M+ equipment tracked</text><text xml:space="preserve" class="ln" style="animation-delay:2.50s" x="584" y="248" fill="#e6edf3" font-family="Consolas, 'SF Mono', Menlo, 'Courier New', monospace" font-size="14"> game dev  | Ashbound, built in Godot</text><text xml:space="preserve" class="ln" style="animation-delay:2.85s" x="584" y="271" fill="#8b949e" font-family="Consolas, 'SF Mono', Menlo, 'Courier New', monospace" font-size="14">(3 rows)</text>
+<rect class="cur" x="664" y="267" width="9" height="16" fill="#ff8a3d"/>
+</svg>
