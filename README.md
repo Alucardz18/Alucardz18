@@ -22,10 +22,12 @@
 <!-- ========================= ABOUT ME ========================= -->
 <h2 align="center">👨‍💻 About Me</h2>
 
-- 🎓 **B.S. Computer Science, North Carolina A&T**, graduating **December 2026** (GPA 3.5, Dean's List)
+- 🎓 **B.S. Computer Science, North Carolina A&T**, graduating **December 2026**
 - 🎖️ Serving in the **U.S. Marine Corps Reserve** as a Supply and Logistics Specialist, reconciling **$17M+ in equipment** in GCSS-MC with zero inspection discrepancies
 - ⚙️ Built a **Power Apps** tracking tool that cut my unit's workload by 20%
 - 📊 I turn messy data into clear recommendations with **SQL, Python, Excel and Power BI**
+- 🎮 Currently building **Ashbound**, a roguelite platformer in Godot, with my senior design team
+- 🏆 3rd place at **HackNCAT 8.0**
 - 💼 Open to **entry-level data, business, operations and supply chain analyst** roles, plus **IT support**
 - 📍 Based in **Greensboro, NC** and open to relocating
 
@@ -40,16 +42,16 @@
 | **[Asheville Airbnb Listings Analysis](https://github.com/Alucardz18/Asheville-Airbnb-Listings-Analysis)** | Analyzed 2,332 listings to find where demand, price and supply meet by ZIP code, host size and season | MySQL, Python, Excel, Power Query |
 | **[U.S. EV Market Share](https://github.com/Alucardz18/U.S.-EV-Market-Share)** | State-by-state EV adoption analysis that flags large markets below the national benchmark | SQL, Power BI |
 
-<p align="center"><sub>Also: 🏆 3rd place at <b>HackNCAT 8.0</b> &nbsp;·&nbsp; 🎮 building <b>Ashbound</b>, a roguelite platformer in Godot, with my senior design team</sub></p>
-
 <br />
 
 <!-- ========================= TECH STACK ========================= -->
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SQL-334155?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Python-4A6FA5?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,sqlite,js,html,css,nodejs,express,java,cpp,godot,git,github,vscode&perline=7" alt="Tech stack" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Power%20BI-334155?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI" />
   <img src="https://img.shields.io/badge/Excel-4A6FA5?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel" />
   <img src="https://img.shields.io/badge/Power%20Query%20%26%20DAX-334155?style=for-the-badge&logoColor=white" alt="Power Query and DAX" />
@@ -60,15 +62,8 @@
   <img src="https://img.shields.io/badge/pandas-334155?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
   <img src="https://img.shields.io/badge/NumPy-4A6FA5?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/scikit--learn-334155?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
-  <img src="https://img.shields.io/badge/SQLite-4A6FA5?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Jupyter-334155?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Git-4A6FA5?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
-<p align="center">
+  <img src="https://img.shields.io/badge/Jupyter-4A6FA5?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/CompTIA%20A%2B-334155?style=for-the-badge&logo=comptia&logoColor=white" alt="CompTIA A+" />
-  <img src="https://img.shields.io/badge/Java-4A6FA5?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C%2B%2B-334155?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
 </p>
 
 <br />
